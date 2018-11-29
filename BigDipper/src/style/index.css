@@ -112,6 +112,10 @@ a{
 	top: 0.47rem;
 	background: #fff;
 	display: none;
+	z-index: 9;
+}
+.dh_box i{
+	font-size: 0.16rem;
 }
 .dh_box div{
 	width: 1.03rem;
